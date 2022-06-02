@@ -1,0 +1,11 @@
+# Dependencies
+node_modules
+
+# Artifacts
+dist
+
+# Logs
+pnpm-error.log*
+
+# Webstorm
+.idea
