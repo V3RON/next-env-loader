@@ -1,6 +1,6 @@
 {
   "name": "next-env-loader",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Load custom .env files depending on your environment in Next.js",
   "keywords": [
     "next.js",
